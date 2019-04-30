@@ -1,6 +1,6 @@
 # Binários para Ciência Computação
 
-![bin](https://imgur.com/385fb0f0-84cf-47c2-b29a-1aedde682970 "")
+![bin](https://i.imgur.com/mAyJcdm.jpg "")
 
 Este Guia tem como objetivo contar a história dos números binários e mostrar sua importância e aplicações dentro da Ciência da Computação.
 
