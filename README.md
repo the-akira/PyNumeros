@@ -1,8 +1,8 @@
-# Binários para Computação
+# Binários para Ciência Computação
 
-![alt text](https://i.pinimg.com/736x/52/e0/2b/52e02bbbbcb8009f499a6b24af06b4d8--days-of-creation-biblical-art.jpg "")
+![bin](https://imgur.com/385fb0f0-84cf-47c2-b29a-1aedde682970 "")
 
-Guia para Iniciantes
+Este Guia tem como objetivo contar a história dos números binários e mostrar sua importância e aplicações dentro da Ciência da Computação.
 
 ## Sumário
 
