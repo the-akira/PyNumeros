@@ -1,7 +1,5 @@
 <h1 align="center">Python Números</h1>
 
----------------------------------------
-
 <h1 align="center">
     <img alt="Python" title="PyNumeros" src="https://i.imgur.com/aJHjpKc.png"> </br>
 </h1>
@@ -21,9 +19,9 @@
 05. [Números Negativos](https://github.com/the-akira/Binarios-Computacao/blob/master/Capitulos/05.N%C3%BAmeros%20Negativos.md)
 06. [Frações e Pontos Flutuantes](https://github.com/the-akira/Binarios-Computacao/blob/master/Capitulos/06.Fra%C3%A7%C3%B5es%20e%20Pontos%20Flutuantes.md)
 
-## Programação Python
-
 ---------------------------------------
+
+## Programação Python
 
 01. [Sistemas de Números](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/N%C3%BAmeros.ipynb)
 02. [Formatando Números](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Formatando%20N%C3%BAmeros.ipynb)
