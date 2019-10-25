@@ -24,3 +24,10 @@
 ## Programação Python
 
 ---------------------------------------
+
+01. [Sistemas de Números](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/N%C3%BAmeros.ipynb)
+02. [Formatando Números](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Formatando%20N%C3%BAmeros.ipynb)
+03. [Gerando Números Aleatórios com NumPy](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Gerando%20N%C3%BAmeros%20Aleat%C3%B3rios%20com%20NumPy.ipynb)
+04. [Notação Científica como Ponto Flutuante](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Nota%C3%A7%C3%A3o%20Cient%C3%ADfica%20como%20Ponto%20Flutuante.ipynb)
+
+---------------------------------------
