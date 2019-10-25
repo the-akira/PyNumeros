@@ -1,8 +1,12 @@
-# Binários para Ciência Computação
+<h1 align="center">Python Números</h1>
 
-![bin](https://i.imgur.com/TJaCeeT.jpg "")
+<h1 align="center">
+    <img alt="Python" title="PyNumeros" src="https://i.imgur.com/aJHjpKc.png"> </br>
+</h1>
 
-Este Guia tem como objetivo contar a história dos números binários e mostrar sua importância e aplicações dentro da Ciência da Computação.
+<p align="center">
+	Projeto que visa estabelecer um estudo sobre Números, Sistemas de Numeração e Bases Numéricas.
+</p>
 
 ## Sumário
 
