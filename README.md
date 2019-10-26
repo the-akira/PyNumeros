@@ -28,5 +28,6 @@
 03. [Gerando Números Aleatórios com NumPy](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Gerando%20N%C3%BAmeros%20Aleat%C3%B3rios%20com%20NumPy.ipynb)
 04. [Notação Científica como Ponto Flutuante](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Nota%C3%A7%C3%A3o%20Cient%C3%ADfica%20como%20Ponto%20Flutuante.ipynb)
 05. [Frações - Números Racionais](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Fra%C3%A7%C3%B5es%20-%20N%C3%BAmeros%20Racionais.ipynb)
+06. [Decimal - Matemática de ponto Fixo e Flutuante](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Decimal%20-%20Matem%C3%A1tica%20de%20ponto%20Fixo%20e%20Flutuante.ipynb)
 
 ---------------------------------------
