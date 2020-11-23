@@ -8,8 +8,6 @@
 	Projeto que visa estabelecer um estudo sobre Números, Sistemas de Numeração e Bases Numéricas.
 </p>
 
----------------------------------------
-
 ## Fundamentos Teóricos
 
 01. [Introdução](https://github.com/the-akira/Binarios-Computacao/blob/master/Capitulos/01.Introdu%C3%A7%C3%A3o.md)
@@ -19,8 +17,6 @@
 05. [Números Negativos](https://github.com/the-akira/Binarios-Computacao/blob/master/Capitulos/05.N%C3%BAmeros%20Negativos.md)
 06. [Frações e Pontos Flutuantes](https://github.com/the-akira/Binarios-Computacao/blob/master/Capitulos/06.Fra%C3%A7%C3%B5es%20e%20Pontos%20Flutuantes.md)
 
----------------------------------------
-
 ## Programação Python
 
 01. [Sistemas de Números](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/N%C3%BAmeros.ipynb)
@@ -29,5 +25,3 @@
 04. [Notação Científica como Ponto Flutuante](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Nota%C3%A7%C3%A3o%20Cient%C3%ADfica%20como%20Ponto%20Flutuante.ipynb)
 05. [Frações - Números Racionais](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Fra%C3%A7%C3%B5es%20-%20N%C3%BAmeros%20Racionais.ipynb)
 06. [Decimal - Matemática de ponto Fixo e Flutuante](https://nbviewer.jupyter.org/github/the-akira/PyNumeros/blob/master/Notebooks/Decimal%20-%20Matem%C3%A1tica%20de%20ponto%20Fixo%20e%20Flutuante.ipynb)
-
----------------------------------------
