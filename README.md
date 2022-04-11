@@ -1,7 +1,7 @@
 <h1 align="center">Python Números</h1>
 
 <h1 align="center">
-    <img alt="Python" title="PyNumeros" src="https://i.ibb.co/qJKgChN/N-meros.png"> </br>
+    <img alt="Python" title="PyNumeros" src="https://raw.githubusercontent.com/the-akira/PyNumeros/master/Imagens/Avatar.png"> </br>
 </h1>
 
 <p align="center">
